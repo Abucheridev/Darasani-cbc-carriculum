@@ -1,0 +1,18 @@
+{
+  "name": "Darasani CBC Learning",
+  "short_name": "Darasani",
+  "description": "Grade 7 CBC learning, revision and assessment.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#245db5",
+  "icons": [
+    {
+      "src": "./assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
